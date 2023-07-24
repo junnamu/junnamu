@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Park%20Junho&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Park%20Junho&fontSize=90)
 
 ### Hi there 👋   :smirk_cat:  :speak_no_evil:  :seedling: :computer:  :ok:
 
